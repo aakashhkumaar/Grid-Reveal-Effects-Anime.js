@@ -46,17 +46,6 @@ https://animejsgrideffect.netlify.app/
 
 ---
 
-## 🔥 Getting Started
-
-1️⃣ Clone this repository
-
-```bash
-git clone https://github.com/yourusername/grid-reveal-animations.git
-
-2️⃣ Open the demo you want in your browser (e.g., index.html, index2.html, etc.)
-
-No build step needed — everything runs with plain HTML/CSS/JS!
-
 
 
 🙌 Acknowledgements
