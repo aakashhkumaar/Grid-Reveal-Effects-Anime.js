@@ -39,7 +39,7 @@ https://animejsgrideffect.netlify.app/
 
 ![Grid Reveal Example](https://your-screenshot-link.com)
 
-*(Add a few screenshots or a short GIF showing the animations — this makes your repo much more engaging!)*
+
 <img width="847" height="362" alt="image" src="https://github.com/user-attachments/assets/042e3e9f-ea0d-48e9-8ca9-e23d49778b8b" />
 <img width="806" height="403" alt="image" src="https://github.com/user-attachments/assets/fd00b65c-6dbb-4920-bb6d-c67771f19250" />
 
@@ -52,9 +52,11 @@ https://animejsgrideffect.netlify.app/
 
 ```bash
 git clone https://github.com/yourusername/grid-reveal-animations.git
+
 2️⃣ Open the demo you want in your browser (e.g., index.html, index2.html, etc.)
 
 No build step needed — everything runs with plain HTML/CSS/JS!
+
 
 
 🙌 Acknowledgements
